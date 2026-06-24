@@ -1,0 +1,46 @@
+=========================================
+DATASETS Y RECURSOS EXTERNOS UTILIZADOS
+=========================================
+
+Este repositorio no incluye los conjuntos de datos ni algunos recursos externos utilizados durante el desarrollo del trabajo debido a restricciones de tamaño y licenciamiento.
+
+Los siguientes enlaces permiten descargar los recursos necesarios para reproducir los experimentos descritos en la memoria.
+
+
+-----------------------------------------
+1. Facial Makeup Detection Dataset
+-----------------------------------------
+
+Fuente:
+Roboflow Universe
+
+Enlace:
+https://universe.roboflow.com/nadianajwa/facial-makeup-detection
+
+-----------------------------------------
+2. CelebFaces Attributes Dataset (CelebA)
+-----------------------------------------
+
+Fuente:
+Kaggle
+
+Enlace:
+https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+
+-----------------------------------------
+3. Detector facial SSD-ResNet10
+-----------------------------------------
+
+Archivo de configuración (deploy.prototxt):
+
+https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector
+
+Pesos preentrenados (res10_300x300_ssd_iter_140000.caffemodel):
+
+https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel
+
+-----------------------------------------
+NOTA
+-----------------------------------------
+
+Los scripts incluidos en este repositorio contienen rutas genéricas que deberán adaptarse a la ubicación local de los conjuntos de datos y recursos descargados por cada usuario antes de su ejecución.
