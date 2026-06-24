@@ -26,7 +26,11 @@ Asimismo, se desarrolló un prototipo funcional de Smart Mirror capaz de clasifi
 | Anexo_4 | BNN basada en ResNet mediante Larq |
 | Anexo_5 | Simulador Smart Mirror |
 
-datasets.txt incluye los enlaces a los conjuntos de datos utilizados
+datasets.txt contiene los enlaces de los conjuntos de datos y de los recursos externos utilizados durante el desarrollo del trabajo.
+
+## Importante
+
+Los scripts incluidos en este repositorio contienen rutas genéricas que deberán adaptarse a la ubicación local de los conjuntos de datos y recursos descargados por cada usuario antes de su ejecución.
 
 ## Autor
 
